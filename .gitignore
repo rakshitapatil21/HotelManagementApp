@@ -24,7 +24,6 @@ dist-ssr
 *.sw?
 # Additional fields for a frontend project
 /build
-/public
 .env
 .env.local
 .env.development
